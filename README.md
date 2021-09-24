@@ -1,9 +1,9 @@
 # Breast_cancer_detection_with_GAN
 
-this repo is for B.TECH 3rd year 5 sem ``` project iii ```
+> this repo is for B.TECH 3rd year 5 sem  <b>project iii</b>
 
-## Project Topic : Breast tumor classification using Generative Adversarial Networks (GANs).
-## Domain of the project : Biomedical Image Processing (14)
+### Project Topic : Breast tumor classification using Generative Adversarial Networks (GANs).
+### Domain of the project : Biomedical Image Processing (14)
 
 ## Content
 1. Project Main code
