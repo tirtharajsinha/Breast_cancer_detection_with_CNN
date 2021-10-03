@@ -1,2 +1,5 @@
 /test
 .ipynb_checkpoints*
+venv*
+**/model.json
+**/model.h5
