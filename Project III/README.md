@@ -19,7 +19,14 @@
 1. use of python 3.8 is reccomended(as 3.9 not tested)
 2. use of virtual environment reccomended.
 3. install requirements.txt using ```pip install -r requirements.txt``` before using the app
+<<<<<<< HEAD
 4. paste model.json & model.h5 in ``` static/model/```
 5. run ```python manage.py runserver ``` to run app
 6. to follow whole workflow visit this [repo](https://github.com/tirtharajsinha/Breast_cancer_detection_with_GAN)
 7. to get train model visit [here](https://github.com/tirtharajsinha/Breast_cancer_detection_with_GAN/blob/main/sub_code/breast_cancer_detection_with_ML.ipynb)
+=======
+4. run ```python manage.py runserver ``` to run app
+5. 6. to get train model visit [here](https://github.com/tirtharajsinha/Breast_cancer_detection_with_GAN/blob/main/sub_code/breast_cancer_detection_with_ML.ipynb)
+
+### get most recent version of development [here](https://github.com/tirtharajsinha/breast_cancer_detection_app.git)
+>>>>>>> 602307f7d84b55dbc983ba9cc381916f727d6934
