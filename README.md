@@ -1,5 +1,4 @@
-# Breast_cancer_detection_with_GAN
-
+# An unstructured mammogram analysis for feasible classification and detection of breast cancer using a convolutional approach
 > this repo is for B.TECH 3rd year 5 sem  <b>project iii</b>
 
 ### Project Topic : Breast tumor classification using Generative Adversarial Networks (GANs).
