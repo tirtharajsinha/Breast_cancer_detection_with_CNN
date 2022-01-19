@@ -1,7 +1,7 @@
 # An unstructured mammogram analysis for feasible classification and detection of breast cancer using a convolutional approach
-> this repo is for B.TECH 3rd year 5 sem  <b>project iii</b>
+> this is the source code is for B.TECH 3rd year 5 sem  <b>project iii</b>
 
-### Project Topic : Breast tumor classification using Generative Adversarial Networks (GANs).
+### Project Topic : Breast tumor classification using Convolutional neural network (CNN).
 ### Domain of the project : Biomedical Image Processing (14)
 
 ## Content
@@ -20,6 +20,18 @@
 5. Application Backend : matter to think later
 6. version control system : git | remote-repository-platform : github.com
 
+
+
+## Application notes
+### view the documentation for the app,Instruction and troubleshooting at [Project III app/README.md](Project III app/README.md) file.
+
+
+requirements
+> before use the codes make sure requirements are installed in your workspace.<br>
+> get requirements [list](#)<br>
+> dataset [link](https://github.com/tirtharajsinha/breast_cancer_image_dataset)<br>
+
+
 ## importent Links
 1. kaggle - [visit](https://www.kaggle.com)
 2. google colab - [visit](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -27,12 +39,7 @@
 4. pypi.org - [visit](https://pypi.org/)
 5. tensorflow.org - [visit](https://www.tensorflow.org/)
 6. opencv docs - [visit](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
-7. django docs - [visit](https://docs.djangoproject.com/)
-8. pythonanywhere - [visit](https://www.pythonanywhere.com/)
+7. Flask docs - [visit](https://flask.palletsprojects.com/en/latest/)
 
-## other notes
 
-requirements
-> before use the codes make sure requirements are installed in your workspace.<br>
-> get requirements [list](#)<br>
-> dataset [link](https://github.com/tirtharajsinha/breast_cancer_image_dataset)<br>
+## author : Tirtharaj Sinha [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=website&link=https://tirtharajsinha.github.io)](https://tirtharajsinha.github.io) 
