@@ -5,11 +5,11 @@
 ### Domain of the project : Biomedical Image Processing (14)
 
 ## Content
-1. Project Main code
-2. Project Sub code (May be not directly related to Main project)
-3. project Report/Documentation
-4. Project Presentation(PPT)
-5. instruction
+1. Project III core (Project core codes)*
+2. Project III app (Application based on Core project) *
+3. project Report/Documentation (.docx)
+4. Project Presentation (.pptx)
+5. instruction (/README.md and /Project II app/README.md)
 6. additional
 
 ## project code requirement
@@ -28,7 +28,7 @@
 
 requirements
 > before use the codes make sure requirements are installed in your workspace.<br>
-> get requirements [list](#)<br>
+> get requirements [list](requirements.txt)<br>
 > dataset [link](https://github.com/tirtharajsinha/breast_cancer_image_dataset)<br>
 
 
