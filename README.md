@@ -26,7 +26,7 @@
 
 ## Application notes
 
-### view the documentation for the app,Instruction and troubleshooting at [Project III app/README.md](Project%20III%20app/readme.md) file.
+### view the documentation for the app,Instruction and troubleshooting at [Project III app/README.md](Project%20III%20app/README.md) file.
 
 requirements
 
