@@ -34,7 +34,7 @@
 ## upstream the local repository with remote repository
 
 ```
-git remote add upstream https://github.com/tirtharajsinha/Autoencoder_for_image_compression.git
+git remote add upstream https://github.com/tirtharajsinha/Breast_cancer_detection_with_CNN.git
 git fetch upstream
 git checkout main
 git merge upstream/main
