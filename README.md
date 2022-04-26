@@ -24,9 +24,14 @@
 5. Application Backend : matter to think later
 6. version control system : git | remote-repository-platform : github.com
 
-## Application notes
+## notes
 
-### view the documentation for the app,Instruction and troubleshooting at [Project III app/README.md](Project%20III%20app/README.md) file.
+1. clone or download the repo and open terminal in repo.
+2. use of python 3.8 is reccomended(as 3.9 not tested)
+3. use of virtual environment reccomended.
+4. install requirements.txt using `pip install -r requirements.txt`
+
+### view the documentation for the app-Instruction and troubleshooting at [Project III app/README.md](Project%20III%20app/README.md) file.
 
 requirements
 
@@ -34,7 +39,7 @@ requirements
 > get requirements [list](requirements.txt)<br>
 > dataset [link](https://github.com/tirtharajsinha/breast_cancer_image_dataset)<br>
 
-## importent Links
+## Important Links
 
 1. kaggle - [visit](https://www.kaggle.com)
 2. google colab - [visit](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -44,4 +49,15 @@ requirements
 6. opencv docs - [visit](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 7. Flask docs - [visit](https://flask.palletsprojects.com/en/latest/)
 
-## author : Tirtharaj Sinha [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=website&link=https://tirtharajsinha.github.io)](https://tirtharajsinha.github.io)
+## App snapshot
+
+<p float="left">
+<img src="media\screenshot1.png" width=250px>
+<img src="media\screenshot2.png" width=250px>
+</p>
+<p float="left">
+<img src="media\screenshot3.png" width=250px>
+<img src="media\screenshot4.png" width=250px>
+</p>
+
+### author : Tirtharaj Sinha [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=website&link=https://tirtharajsinha.github.io)](https://tirtharajsinha.github.io)

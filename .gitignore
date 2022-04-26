@@ -1,5 +1,8 @@
 /test
-.ipynb_checkpoints*
+*.ipynb_checkpoints
 venv*
 **/model.json
 **/model.h5
+**/__pycache__
+*.ini
+*.bak
