@@ -31,6 +31,22 @@
 3. use of virtual environment reccomended.
 4. install requirements.txt using `pip install -r requirements.txt`
 
+## upstream the local repository with remote repository
+
+```
+git remote add upstream https://github.com/tirtharajsinha/Autoencoder_for_image_compression.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+
+```
+
+## reset repo
+
+```
+git reset --hard origin/main
+```
+
 ### view the documentation for the app-Instruction and troubleshooting at [Project III app/README.md](Project%20III%20app/README.md) file.
 
 requirements
